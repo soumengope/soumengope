@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumengope&label=Profile%20views&color=0e75b6&style=flat" alt="soumengope" /> </p>
 
-- 🌱 I’m currently learning **Nodejs and Reactjs**
+- 🌱 I’m currently learning **JavaScript and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://soumengope.000webhostapp.com](https://soumengope.000webhostapp.com)
 
-- 💬 Ask me about **JavaScript , React and Node**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **soumengop@gmail.com**
 
