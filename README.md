@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://soumengope.000webhostapp.com](https://soumengope.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://soumengope.free.nf](https://soumengope.free.nf)
 
 - 💬 Ask me about **JavaScript**
 
