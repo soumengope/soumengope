@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://soumengope.free.nf](https://soumengope.free.nf)
+- 👨‍💻 All of my projects are available at [https://soumengop.vercel.app/]https://soumengope.free.nf)
 
 - 💬 Ask me about **JavaScript**
 
